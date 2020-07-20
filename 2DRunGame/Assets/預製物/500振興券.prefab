@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3202829155408291738}
   - component: {fileID: 2684399948295700115}
   - component: {fileID: 3109383950700254139}
+  - component: {fileID: 4061345748549753333}
   m_Layer: 0
   m_Name: "500\u632F\u8208\u5238"
   m_TagString: Untagged
@@ -94,3 +95,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5676a1efc14a54e4b9d2a1e93dc39267, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!58 &4061345748549753333
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3425507623413488800}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.513
